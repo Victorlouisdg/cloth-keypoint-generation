@@ -1,0 +1,2 @@
+venvify==0.0.2
+git+https://github.com/airo-ugent/airo-blender-toolkit.git@master#egg=airo-blender-toolkit
